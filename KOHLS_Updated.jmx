@@ -21,7 +21,7 @@
           </elementProp>
           <elementProp name="base_url" elementType="Argument">
             <stringProp name="Argument.name">base_url</stringProp>
-            <stringProp name="Argument.value">internal-perf.nextuple.com</stringProp>
+            <stringProp name="Argument.value">internal-dev.nextuple.com</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
           <elementProp name="base_path" elementType="Argument">
