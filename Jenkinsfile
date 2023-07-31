@@ -5,7 +5,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 // Checkout the code from your GitHub repository
-                git url: 'https://github.com/arhk14/KOHLS.git'
+                git url: 'https://github.com/arhk14/KOHLS.git', credentialsId: 'Git_Authentication'
             }
         }
         
